@@ -1,8 +1,7 @@
 # Ignore the big files.
 rating.csv
-movies_metadata.csv
 /resources/rating.csv
-/resources/movies_metadata.csv
+
 
 # Ignore the config file.
 config.py
