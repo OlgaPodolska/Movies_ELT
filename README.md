@@ -1,7 +1,5 @@
 # Movies-ETL
-
-# Mapping_Earthquakes
-GeoJSON data to create interactive earthquake map
+ELT process with Wiki and Kaggle data to PostgreSQL
 
 # Purpose
 The purpose of this project is to perform the ETL process by adding the data from Wikipedia, Kaggle, and MovieLens to a PostgreSQL database. I created an automated pipeline that takes in new data, performs the appropriate transformations, and loads the data into existing tables. For that I writed one function that takes in all the three files — Wikipedia data, Kaggle metadata, and the MovieLens rating data, and run the ETL process by adding the data to a PostgreSQL database.
